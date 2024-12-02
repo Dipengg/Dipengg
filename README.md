@@ -11,7 +11,7 @@ I'm Louis Diaz Sanjaya, Information Systems at Telkom University, interested in 
 
 - 🌱 I’m currently learning Web Development | Android Development 
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/diazsnjaya/) | [E-Mail](mailto:louisdiaz2003@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/diazsnjaya/) | [E-Mail](mailto:louisdiaz2003@gmail.com)
 
 &nbsp;
 
