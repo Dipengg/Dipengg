@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi!, I'm Louis Diaz Sanjaya, you can call me Diazz 👋
 
-<!--
-**Dipengg/Dipengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diazsnjaya/)](https://www.linkedin.com/in/diazsnjaya/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white&link=mailto:louisdiaz2003@gmail.com)](mailto:louisdiaz2003@gmail.com)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dipengg.Dipengg)
 
-Here are some ideas to get you started:
+I'm Louis Diaz Sanjaya, Information Systems at Telkom University, interested in Web Development, and also Android Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Talking about Personal Stuffs:
+
+- 🌱 I’m currently learning Web Development | Android Development 
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [E-Mail](mailto:louisdiaz2003@gmail.com) | [Linkedin](https://www.linkedin.com/in/diazsnjaya/)
+
+&nbsp;
+
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/Dipengg">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dipengg&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/Dipengg">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipengg&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
