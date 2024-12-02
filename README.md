@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diazsnjaya/)](https://www.linkedin.com/in/diazsnjaya/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white&link=mailto:louisdiaz2003@gmail.com)](mailto:louisdiaz2003@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/diazsnjxya/)](https://instagram.com/diazsnjxya)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dipengg.Dipengg)
 
 I'm Louis Diaz Sanjaya, Information Systems at Telkom University, interested in Web Development, and also Android Development.
