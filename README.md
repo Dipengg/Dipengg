@@ -1,4 +1,5 @@
-## Hi!, I'm Diazz 👋
+## 🎉 Welcome to Diazz's Coding Universe! 🌌
+Exploring the world of tech, one line of code at a time 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diazsnjaya/)](https://www.linkedin.com/in/diazsnjaya/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white&link=mailto:louisdiaz2003@gmail.com)](mailto:louisdiaz2003@gmail.com)
