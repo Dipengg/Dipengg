@@ -1,10 +1,10 @@
-## Hi!, I'm Louis Diaz Sanjaya, you can call me Diazz 👋
+## Hi!, I'm Diazz 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diazsnjaya/)](https://www.linkedin.com/in/diazsnjaya/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white&link=mailto:louisdiaz2003@gmail.com)](mailto:louisdiaz2003@gmail.com)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dipengg.Dipengg)
 
-I'm Louis Diaz Sanjaya, Information Systems at Telkom University, interested in Web Development, and also Android Development.
+I am Louis Diaz Sanjaya, an Information Systems student at Telkom University with strong interest and experience in IT, especially Web and Android Development.
 
 
 ### Talking about Personal Stuffs:
