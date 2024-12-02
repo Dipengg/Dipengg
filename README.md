@@ -1,4 +1,4 @@
-## 🎉 Welcome to Diazz's Coding Universe! 🌌
+# 🎉 Welcome to Diazz's Coding Universe! 🌌
 Exploring the world of tech, one line of code at a time 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diazsnjaya/)](https://www.linkedin.com/in/diazsnjaya/) 
@@ -6,7 +6,6 @@ Exploring the world of tech, one line of code at a time 🚀
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dipengg.Dipengg)
 
 I am Louis Diaz Sanjaya, an Information Systems student at Telkom University with strong interest and experience in IT, especially Web and Android Development.
-
 
 ### Talking about Personal Stuffs:
 
